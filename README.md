@@ -34,16 +34,16 @@ O projeto possui a seguinte estrutura de arquivos:
 ## Como Executar o Projeto
 
 Clone o repositório para o seu computador:
-bash
-Copy code
+
 git clone https://github.com/seu-usuario/pokedex.git
-Abra o arquivo index.html em seu navegador.
 
-Você verá a Pokédex com informações do Pokémon atual.
+1- Abra o arquivo index.html em seu navegador.
 
-Use os botões "Next" e "Previous" para navegar entre os diferentes pokémons.
+2- Você verá a Pokédex com informações do Pokémon atual.
 
-Utilize a barra de pesquisa para buscar um Pokémon específico por nome.
+3- Use os botões "Next" e "Previous" para navegar entre os diferentes pokémons.
+
+4- Utilize a barra de pesquisa para buscar um Pokémon específico por nome.
 
 ## Contribuição
 

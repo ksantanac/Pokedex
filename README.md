@@ -4,7 +4,7 @@ Este é o meu primeiro projeto usando JavaScript, e também a minha primeira exp
 
 ## Layout Web
 
-![Web](https://github.com/ksantanac/Challenge/blob/main/teste.png)
+![image](https://github.com/ksantanac/Pokedex/assets/127277943/2f9e7cc1-1be4-44e4-ae5d-aa5de1acff56)
 
 ## Sobre o Projeto
 
